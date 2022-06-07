@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+Make a README
+Because no one can read your mind (yet)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
