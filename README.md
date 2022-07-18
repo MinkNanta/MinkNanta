@@ -10,6 +10,8 @@
 
 - 📫 keep in touch [linkedin](https://www.linkedin.com/in/ntnmink/)
 
+- ✋🏼 se my work [My website]([https://www.linkedin.com/in/ntnmink/](https://nantanit-mink.onrender.com/index.html))
+
 <p align="left">
 </p>
 
